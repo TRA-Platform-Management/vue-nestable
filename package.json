@@ -59,6 +59,7 @@
     "pre-commit": "^1.2.2",
     "rimraf": "^5.0.10",
     "rollup-plugin-vue": "^5.1.9",
+    "uglifyjs-webpack-plugin": "^2.2.0",
     "vue-jest": "^3.0.6",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.12",
